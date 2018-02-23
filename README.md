@@ -1,8 +1,10 @@
-###Worm Aria###
+### Worm Aria ###
 
-***Slither.io clone***
+*Slither.io clone using Processing.*
 
-> This project is intended only for reference. Do not use this implementation in production. There are no optimizations for speed and memory usage.
+![Worm Aria](https://github.com/andreyugolnik/wormaria/blob/master/WormAria.png "Worm Aria")
 
-***Processing***
-![Get Processing](https://processing.org)
+> This is an "one hour" project and intended only for reference. Do not use this implementation in production. There are no optimizations for speed and memory usage.
+
+***
+[Get Processing](https://processing.org)
